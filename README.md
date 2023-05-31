@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+v<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 📫 How to reach me: https://www.linkedin.com/in/matthew-meyer-59138588/ | https://wellfound.com/u/matthew-matt-meyer
