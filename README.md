@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+## My friends call me Matt and you can as well.
+
+
 
 <!--
 **meyermatt22/meyermatt22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me: https://www.linkedin.com/in/matthew-meyer-59138588/ | https://wellfound.com/u/matthew-matt-meyer
